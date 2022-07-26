@@ -1,7 +1,7 @@
-import './App.css';
+import './App.scss';
 
 const App = () => {
-  return <div>This is going to be my personal website!</div>;
+  return <div className="text-blue-500">This is going to be my personal website!</div>;
 };
 
 export default App;
