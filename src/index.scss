@@ -4,5 +4,6 @@
 
 body {
   @apply bg-white text-gray-900 dark:bg-gray-900 dark:text-white;
+  @apply text-sm;
   font-family: Inter, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

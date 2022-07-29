@@ -9,7 +9,8 @@ module.exports = {
     extend: {
       colors: {
         primary: colors.emerald,
-        secondary: colors.orange
+        secondary: colors.orange,
+        danger: colors.pink
       },
       keyframes: {
         typing: {
