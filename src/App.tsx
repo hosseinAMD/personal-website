@@ -1,7 +1,11 @@
-import './App.scss';
+import Header from 'components/Header/Header';
 
 const App = () => {
-  return <div className="text-primary-700">This is going to be my personal website!</div>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 };
 
 export default App;
